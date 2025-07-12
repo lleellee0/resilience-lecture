@@ -21,3 +21,4 @@
 - https://github.com/lleellee0/resilience-5-2-account-service
 - https://github.com/lleellee0/resilience-5-3-account-service
 - https://github.com/lleellee0/resilience-5-4-order-service
+- https://github.com/lleellee0/resilience-5-5-order-service
