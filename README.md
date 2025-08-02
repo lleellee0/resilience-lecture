@@ -23,3 +23,4 @@
 - https://github.com/lleellee0/resilience-5-4-order-service
 - https://github.com/lleellee0/resilience-5-5-order-service
 - https://github.com/lleellee0/resilience-5-7-order-service
+- https://github.com/lleellee0/resilience-6-1-main-service
